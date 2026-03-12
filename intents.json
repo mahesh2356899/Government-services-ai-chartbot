@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "tag": "ration_card",
+      "patterns": ["How to apply ration card", "Ration card process"],
+      "responses": ["You can apply ration card through Meeseva portal or visit nearest MeeSeva center."]
+    },
+    {
+      "tag": "pan_card",
+      "patterns": ["How to apply PAN card", "PAN card apply"],
+      "responses": ["You can apply PAN card through NSDL official website."]
+    },
+    {
+      "tag": "scholarship",
+      "patterns": ["Scholarship details", "How to apply scholarship"],
+      "responses": ["Visit National Scholarship Portal and register to apply."]
+    }
+  ]1
+}
